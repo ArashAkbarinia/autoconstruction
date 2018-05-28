@@ -1,0 +1,3626 @@
+%YAML:1.0
+True positives: 6005
+True negatives: 4783
+False positives: 1365
+False negatives: 0
+TPR: 1.0
+TNR: 0.77797
+FPR: 0.22202
+FNR: 0.0
+Accuracy: 8.8768205381387311e-01
+Error rate: 1.1231794618612688e-01
+Precision: 0.777976578
+Outliers: 3.7958843159065631e-01
+center:
+   - { length:1, points:[ { x:6, y:275 } ] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:1, points:[ { x:287, y:5 } ] }
+   - { length:1, points:[ { x:284, y:6 } ] }
+   - { length:1, points:[ { x:286, y:5 } ] }
+   - { length:1, points:[ { x:284, y:5 } ] }
+   - { length:1, points:[ { x:286, y:5 } ] }
+   - { length:1, points:[ { x:285, y:5 } ] }
+   - { length:1, points:[ { x:286, y:6 } ] }
+   - { length:1, points:[ { x:284, y:5 } ] }
+   - { length:1, points:[ { x:284, y:6 } ] }
+   - { length:1, points:[ { x:284, y:4 } ] }
+   - { length:1, points:[ { x:284, y:4 } ] }
+   - { length:1, points:[ { x:284, y:5 } ] }
+   - { length:1, points:[ { x:283, y:5 } ] }
+   - { length:1, points:[ { x:284, y:6 } ] }
+   - { length:1, points:[ { x:283, y:6 } ] }
+   - { length:1, points:[ { x:283, y:6 } ] }
+   - { length:1, points:[ { x:282, y:6 } ] }
+   - { length:1, points:[ { x:282, y:6 } ] }
+   - { length:1, points:[ { x:282, y:3 } ] }
+   - { length:1, points:[ { x:283, y:7 } ] }
+   - { length:1, points:[ { x:283, y:7 } ] }
+   - { length:1, points:[ { x:283, y:6 } ] }
+   - { length:1, points:[ { x:282, y:7 } ] }
+   - { length:1, points:[ { x:282, y:6 } ] }
+   - { length:1, points:[ { x:282, y:7 } ] }
+   - { length:1, points:[ { x:282, y:6 } ] }
+   - { length:1, points:[ { x:282, y:7 } ] }
+   - { length:1, points:[ { x:282, y:7 } ] }
+   - { length:1, points:[ { x:281, y:8 } ] }
+   - { length:1, points:[ { x:281, y:6 } ] }
+   - { length:1, points:[ { x:281, y:7 } ] }
+   - { length:1, points:[ { x:281, y:7 } ] }
+   - { length:1, points:[ { x:281, y:7 } ] }
+   - { length:1, points:[ { x:281, y:6 } ] }
+   - { length:1, points:[ { x:281, y:7 } ] }
+   - { length:1, points:[ { x:281, y:7 } ] }
+   - { length:1, points:[ { x:282, y:8 } ] }
+   - { length:1, points:[ { x:281, y:7 } ] }
+   - { length:1, points:[ { x:282, y:8 } ] }
+   - { length:1, points:[ { x:282, y:7 } ] }
+   - { length:1, points:[ { x:282, y:9 } ] }
+   - { length:1, points:[ { x:282, y:7 } ] }
+   - { length:1, points:[ { x:282, y:9 } ] }
+   - { length:1, points:[ { x:282, y:8 } ] }
+   - { length:1, points:[ { x:282, y:9 } ] }
+   - { length:1, points:[ { x:282, y:8 } ] }
+   - { length:1, points:[ { x:283, y:9 } ] }
+   - { length:1, points:[ { x:282, y:8 } ] }
+   - { length:1, points:[ { x:283, y:9 } ] }
+   - { length:1, points:[ { x:283, y:8 } ] }
+   - { length:1, points:[ { x:282, y:9 } ] }
+   - { length:1, points:[ { x:282, y:8 } ] }
+   - { length:2, points:[ { x:509, y:344 }, { x:283, y:8 } ] }
+   - { length:1, points:[ { x:283, y:9 } ] }
+   - { length:1, points:[ { x:283, y:9 } ] }
+   - { length:1, points:[ { x:282, y:9 } ] }
+   - { length:1, points:[ { x:282, y:8 } ] }
+   - { length:1, points:[ { x:282, y:9 } ] }
+   - { length:1, points:[ { x:282, y:8 } ] }
+   - { length:1, points:[ { x:282, y:9 } ] }
+   - { length:1, points:[ { x:283, y:9 } ] }
+   - { length:1, points:[ { x:283, y:9 } ] }
+   - { length:1, points:[ { x:282, y:8 } ] }
+   - { length:1, points:[ { x:281, y:8 } ] }
+   - { length:1, points:[ { x:281, y:9 } ] }
+   - { length:1, points:[ { x:281, y:9 } ] }
+   - { length:1, points:[ { x:281, y:9 } ] }
+   - { length:1, points:[ { x:281, y:10 } ] }
+   - { length:1, points:[ { x:281, y:10 } ] }
+   - { length:1, points:[ { x:280, y:9 } ] }
+   - { length:1, points:[ { x:281, y:10 } ] }
+   - { length:1, points:[ { x:281, y:9 } ] }
+   - { length:1, points:[ { x:281, y:10 } ] }
+   - { length:1, points:[ { x:281, y:9 } ] }
+   - { length:1, points:[ { x:281, y:9 } ] }
+   - { length:1, points:[ { x:281, y:9 } ] }
+   - { length:1, points:[ { x:281, y:9 } ] }
+   - { length:1, points:[ { x:282, y:10 } ] }
+   - { length:1, points:[ { x:281, y:9 } ] }
+   - { length:1, points:[ { x:282, y:10 } ] }
+   - { length:1, points:[ { x:281, y:9 } ] }
+   - { length:1, points:[ { x:282, y:10 } ] }
+   - { length:1, points:[ { x:281, y:10 } ] }
+   - { length:1, points:[ { x:282, y:10 } ] }
+   - { length:1, points:[ { x:281, y:10 } ] }
+   - { length:1, points:[ { x:282, y:11 } ] }
+   - { length:1, points:[ { x:281, y:10 } ] }
+   - { length:1, points:[ { x:281, y:11 } ] }
+   - { length:1, points:[ { x:281, y:10 } ] }
+   - { length:1, points:[ { x:282, y:11 } ] }
+   - { length:1, points:[ { x:281, y:11 } ] }
+   - { length:1, points:[ { x:281, y:11 } ] }
+   - { length:1, points:[ { x:281, y:11 } ] }
+   - { length:1, points:[ { x:281, y:11 } ] }
+   - { length:1, points:[ { x:281, y:11 } ] }
+   - { length:1, points:[ { x:281, y:12 } ] }
+   - { length:1, points:[ { x:281, y:11 } ] }
+   - { length:1, points:[ { x:282, y:11 } ] }
+   - { length:1, points:[ { x:281, y:10 } ] }
+   - { length:1, points:[ { x:280, y:12 } ] }
+   - { length:1, points:[ { x:281, y:11 } ] }
+   - { length:1, points:[ { x:280, y:12 } ] }
+   - { length:1, points:[ { x:281, y:12 } ] }
+   - { length:1, points:[ { x:281, y:11 } ] }
+   - { length:1, points:[ { x:281, y:12 } ] }
+   - { length:1, points:[ { x:280, y:12 } ] }
+   - { length:1, points:[ { x:281, y:11 } ] }
+   - { length:1, points:[ { x:281, y:13 } ] }
+   - { length:1, points:[ { x:281, y:12 } ] }
+   - { length:1, points:[ { x:281, y:13 } ] }
+   - { length:1, points:[ { x:281, y:13 } ] }
+   - { length:1, points:[ { x:281, y:12 } ] }
+   - { length:1, points:[ { x:281, y:12 } ] }
+   - { length:1, points:[ { x:281, y:12 } ] }
+   - { length:1, points:[ { x:280, y:15 } ] }
+   - { length:1, points:[ { x:281, y:13 } ] }
+   - { length:1, points:[ { x:281, y:14 } ] }
+   - { length:1, points:[ { x:281, y:14 } ] }
+   - { length:1, points:[ { x:281, y:12 } ] }
+   - { length:1, points:[ { x:280, y:13 } ] }
+   - { length:1, points:[ { x:280, y:13 } ] }
+   - { length:1, points:[ { x:281, y:15 } ] }
+   - { length:1, points:[ { x:281, y:16 } ] }
+   - { length:1, points:[ { x:281, y:15 } ] }
+   - { length:1, points:[ { x:281, y:17 } ] }
+   - { length:1, points:[ { x:281, y:16 } ] }
+   - { length:1, points:[ { x:280, y:17 } ] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:1, points:[ { x:494, y:191 } ] }
+   - { length:1, points:[ { x:495, y:193 } ] }
+   - { length:1, points:[ { x:496, y:194 } ] }
+   - { length:1, points:[ { x:497, y:194 } ] }
+   - { length:1, points:[ { x:496, y:194 } ] }
+   - { length:1, points:[ { x:498, y:194 } ] }
+   - { length:1, points:[ { x:498, y:193 } ] }
+   - { length:1, points:[ { x:499, y:193 } ] }
+   - { length:1, points:[ { x:500, y:190 } ] }
+   - { length:1, points:[ { x:500, y:192 } ] }
+   - { length:1, points:[ { x:499, y:192 } ] }
+   - { length:1, points:[ { x:500, y:191 } ] }
+   - { length:1, points:[ { x:501, y:192 } ] }
+   - { length:1, points:[ { x:6, y:278 } ] }
+   - { length:1, points:[ { x:6, y:276 } ] }
+   - { length:1, points:[ { x:7, y:278 } ] }
+   - { length:1, points:[ { x:7, y:277 } ] }
+   - { length:1, points:[ { x:9, y:278 } ] }
+   - { length:1, points:[ { x:9, y:275 } ] }
+   - { length:1, points:[ { x:10, y:277 } ] }
+   - { length:1, points:[ { x:10, y:275 } ] }
+   - { length:1, points:[ { x:11, y:275 } ] }
+   - { length:1, points:[ { x:11, y:273 } ] }
+   - { length:1, points:[ { x:12, y:271 } ] }
+   - { length:1, points:[ { x:12, y:268 } ] }
+   - { length:1, points:[ { x:13, y:268 } ] }
+   - { length:2, points:[ { x:13, y:266 }, { x:510, y:198 } ] }
+   - { length:2, points:[ { x:14, y:267 }, { x:511, y:199 } ] }
+   - { length:2, points:[ { x:14, y:265 }, { x:512, y:199 } ] }
+   - { length:2, points:[ { x:15, y:266 }, { x:513, y:201 } ] }
+   - { length:2, points:[ { x:15, y:264 }, { x:511, y:201 } ] }
+   - { length:1, points:[ { x:16, y:266 } ] }
+   - { length:1, points:[ { x:16, y:264 } ] }
+   - { length:1, points:[ { x:17, y:265 } ] }
+   - { length:2, points:[ { x:17, y:263 }, { x:577, y:153 } ] }
+   - { length:1, points:[ { x:17, y:261 } ] }
+   - { length:1, points:[ { x:18, y:260 } ] }
+   - { length:2, points:[ { x:18, y:261 }, { x:579, y:155 } ] }
+   - { length:1, points:[ { x:19, y:258 } ] }
+   - { length:1, points:[ { x:20, y:259 } ] }
+   - { length:1, points:[ { x:20, y:257 } ] }
+   - { length:1, points:[ { x:20, y:258 } ] }
+   - { length:1, points:[ { x:21, y:255 } ] }
+   - { length:1, points:[ { x:22, y:256 } ] }
+   - { length:1, points:[ { x:23, y:253 } ] }
+   - { length:1, points:[ { x:23, y:253 } ] }
+   - { length:1, points:[ { x:24, y:251 } ] }
+   - { length:1, points:[ { x:24, y:250 } ] }
+   - { length:1, points:[ { x:25, y:248 } ] }
+   - { length:1, points:[ { x:25, y:248 } ] }
+   - { length:1, points:[ { x:26, y:248 } ] }
+   - { length:1, points:[ { x:27, y:247 } ] }
+   - { length:1, points:[ { x:28, y:246 } ] }
+   - { length:1, points:[ { x:28, y:245 } ] }
+   - { length:2, points:[ { x:29, y:245 }, { x:591, y:158 } ] }
+   - { length:1, points:[ { x:30, y:244 } ] }
+   - { length:1, points:[ { x:31, y:243 } ] }
+   - { length:1, points:[ { x:32, y:242 } ] }
+   - { length:2, points:[ { x:33, y:242 }, { x:593, y:170 } ] }
+   - { length:2, points:[ { x:33, y:240 }, { x:593, y:171 } ] }
+   - { length:2, points:[ { x:33, y:239 }, { x:594, y:171 } ] }
+   - { length:2, points:[ { x:34, y:238 }, { x:549, y:182 } ] }
+   - { length:2, points:[ { x:35, y:238 }, { x:595, y:172 } ] }
+   - { length:1, points:[ { x:549, y:180 } ] }
+   - { length:1, points:[ { x:597, y:174 } ] }
+   - { length:1, points:[ { x:597, y:176 } ] }
+   - { length:1, points:[ { x:599, y:176 } ] }
+   - { length:1, points:[ { x:598, y:178 } ] }
+   - { length:1, points:[ { x:599, y:178 } ] }
+   - { length:1, points:[ { x:599, y:179 } ] }
+   - { length:1, points:[ { x:600, y:180 } ] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:1, points:[ { x:607, y:209 } ] }
+   - { length:1, points:[ { x:607, y:210 } ] }
+   - { length:1, points:[ { x:608, y:209 } ] }
+   - { length:1, points:[ { x:608, y:210 } ] }
+   - { length:1, points:[ { x:608, y:210 } ] }
+   - { length:2, points:[ { x:608, y:211 }, { x:278, y:12 } ] }
+   - { length:2, points:[ { x:609, y:210 }, { x:278, y:13 } ] }
+   - { length:2, points:[ { x:609, y:212 }, { x:278, y:12 } ] }
+   - { length:2, points:[ { x:609, y:211 }, { x:278, y:13 } ] }
+   - { length:2, points:[ { x:609, y:212 }, { x:278, y:12 } ] }
+   - { length:2, points:[ { x:610, y:212 }, { x:278, y:13 } ] }
+   - { length:2, points:[ { x:609, y:212 }, { x:278, y:12 } ] }
+   - { length:2, points:[ { x:610, y:213 }, { x:278, y:12 } ] }
+   - { length:2, points:[ { x:610, y:213 }, { x:278, y:11 } ] }
+   - { length:2, points:[ { x:611, y:214 }, { x:278, y:12 } ] }
+   - { length:2, points:[ { x:610, y:214 }, { x:278, y:11 } ] }
+   - { length:2, points:[ { x:612, y:215 }, { x:279, y:11 } ] }
+   - { length:2, points:[ { x:612, y:215 }, { x:279, y:11 } ] }
+   - { length:2, points:[ { x:613, y:216 }, { x:279, y:11 } ] }
+   - { length:2, points:[ { x:612, y:216 }, { x:279, y:11 } ] }
+   - { length:2, points:[ { x:613, y:216 }, { x:279, y:11 } ] }
+   - { length:2, points:[ { x:614, y:216 }, { x:280, y:10 } ] }
+   - { length:2, points:[ { x:614, y:216 }, { x:279, y:11 } ] }
+   - { length:2, points:[ { x:614, y:216 }, { x:279, y:10 } ] }
+   - { length:2, points:[ { x:615, y:216 }, { x:279, y:10 } ] }
+   - { length:2, points:[ { x:615, y:217 }, { x:279, y:10 } ] }
+   - { length:2, points:[ { x:617, y:217 }, { x:279, y:10 } ] }
+   - { length:2, points:[ { x:616, y:217 }, { x:280, y:10 } ] }
+   - { length:2, points:[ { x:610, y:222 }, { x:279, y:10 } ] }
+   - { length:2, points:[ { x:617, y:217 }, { x:279, y:10 } ] }
+   - { length:3, points:[ { x:609, y:247 }, { x:621, y:210 }, { x:280,
+       y:9 } ] }
+   - { length:2, points:[ { x:615, y:226 }, { x:280, y:9 } ] }
+   - { length:3, points:[ { x:610, y:250 }, { x:621, y:210 }, { x:280,
+       y:9 } ] }
+   - { length:2, points:[ { x:618, y:220 }, { x:280, y:9 } ] }
+   - { length:2, points:[ { x:619, y:222 }, { x:281, y:8 } ] }
+   - { length:2, points:[ { x:620, y:221 }, { x:280, y:9 } ] }
+   - { length:2, points:[ { x:621, y:223 }, { x:280, y:9 } ] }
+   - { length:2, points:[ { x:621, y:223 }, { x:280, y:9 } ] }
+   - { length:2, points:[ { x:622, y:229 }, { x:281, y:8 } ] }
+   - { length:2, points:[ { x:622, y:228 }, { x:280, y:9 } ] }
+   - { length:3, points:[ { x:624, y:253 }, { x:622, y:208 }, { x:280,
+       y:8 } ] }
+   - { length:3, points:[ { x:624, y:252 }, { x:622, y:211 }, { x:280,
+       y:8 } ] }
+   - { length:3, points:[ { x:626, y:255 }, { x:622, y:212 }, { x:281,
+       y:8 } ] }
+   - { length:3, points:[ { x:627, y:254 }, { x:622, y:211 }, { x:281,
+       y:8 } ] }
+   - { length:3, points:[ { x:627, y:257 }, { x:622, y:212 }, { x:281,
+       y:6 } ] }
+   - { length:3, points:[ { x:628, y:257 }, { x:622, y:211 }, { x:281,
+       y:8 } ] }
+   - { length:3, points:[ { x:628, y:260 }, { x:622, y:212 }, { x:281,
+       y:7 } ] }
+   - { length:3, points:[ { x:629, y:260 }, { x:622, y:217 }, { x:281,
+       y:8 } ] }
+   - { length:3, points:[ { x:630, y:262 }, { x:622, y:220 }, { x:281,
+       y:7 } ] }
+   - { length:3, points:[ { x:630, y:262 }, { x:622, y:221 }, { x:281,
+       y:7 } ] }
+   - { length:3, points:[ { x:631, y:263 }, { x:622, y:222 }, { x:280,
+       y:4 } ] }
+   - { length:3, points:[ { x:632, y:263 }, { x:622, y:221 }, { x:281,
+       y:6 } ] }
+   - { length:3, points:[ { x:633, y:264 }, { x:622, y:223 }, { x:281,
+       y:5 } ] }
+   - { length:2, points:[ { x:623, y:222 }, { x:281, y:4 } ] }
+   - { length:1, points:[ { x:622, y:224 } ] }
+   - { length:2, points:[ { x:623, y:224 }, { x:281, y:4 } ] }
+   - { length:2, points:[ { x:623, y:225 }, { x:281, y:3 } ] }
+   - { length:2, points:[ { x:623, y:225 }, { x:281, y:4 } ] }
+   - { length:2, points:[ { x:623, y:226 }, { x:281, y:3 } ] }
+   - { length:2, points:[ { x:623, y:226 }, { x:281, y:4 } ] }
+   - { length:1, points:[ { x:623, y:227 } ] }
+   - { length:2, points:[ { x:624, y:226 }, { x:281, y:3 } ] }
+   - { length:1, points:[ { x:624, y:226 } ] }
+   - { length:1, points:[ { x:624, y:226 } ] }
+   - { length:1, points:[ { x:624, y:227 } ] }
+   - { length:2, points:[ { x:624, y:227 }, { x:282, y:5 } ] }
+   - { length:1, points:[ { x:625, y:228 } ] }
+   - { length:1, points:[ { x:625, y:227 } ] }
+   - { length:1, points:[ { x:625, y:229 } ] }
+   - { length:1, points:[ { x:626, y:230 } ] }
+   - { length:1, points:[ { x:626, y:231 } ] }
+   - { length:1, points:[ { x:627, y:232 } ] }
+   - { length:1, points:[ { x:626, y:231 } ] }
+   - { length:1, points:[ { x:627, y:232 } ] }
+   - { length:1, points:[ { x:627, y:233 } ] }
+   - { length:1, points:[ { x:631, y:240 } ] }
+   - { length:1, points:[ { x:630, y:241 } ] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:1, points:[ { x:628, y:216 } ] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:1, points:[ { x:627, y:235 } ] }
+   - { length:1, points:[ { x:628, y:235 } ] }
+   - { length:1, points:[ { x:626, y:234 } ] }
+   - { length:1, points:[ { x:626, y:234 } ] }
+   - { length:1, points:[ { x:626, y:233 } ] }
+   - { length:1, points:[ { x:626, y:233 } ] }
+   - { length:2, points:[ { x:625, y:232 }, { x:628, y:202 } ] }
+   - { length:2, points:[ { x:625, y:232 }, { x:628, y:202 } ] }
+   - { length:2, points:[ { x:624, y:231 }, { x:627, y:202 } ] }
+   - { length:2, points:[ { x:625, y:230 }, { x:628, y:201 } ] }
+   - { length:2, points:[ { x:624, y:230 }, { x:627, y:200 } ] }
+   - { length:2, points:[ { x:624, y:229 }, { x:627, y:200 } ] }
+   - { length:2, points:[ { x:623, y:229 }, { x:626, y:199 } ] }
+   - { length:2, points:[ { x:623, y:228 }, { x:626, y:199 } ] }
+   - { length:2, points:[ { x:622, y:227 }, { x:625, y:198 } ] }
+   - { length:2, points:[ { x:622, y:227 }, { x:625, y:198 } ] }
+   - { length:2, points:[ { x:621, y:226 }, { x:625, y:197 } ] }
+   - { length:2, points:[ { x:621, y:225 }, { x:624, y:197 } ] }
+   - { length:2, points:[ { x:621, y:224 }, { x:624, y:196 } ] }
+   - { length:2, points:[ { x:621, y:225 }, { x:624, y:196 } ] }
+   - { length:2, points:[ { x:620, y:223 }, { x:623, y:195 } ] }
+   - { length:2, points:[ { x:620, y:223 }, { x:623, y:195 } ] }
+   - { length:2, points:[ { x:619, y:222 }, { x:622, y:195 } ] }
+   - { length:2, points:[ { x:619, y:222 }, { x:622, y:195 } ] }
+   - { length:2, points:[ { x:619, y:225 }, { x:622, y:193 } ] }
+   - { length:2, points:[ { x:619, y:224 }, { x:622, y:194 } ] }
+   - { length:2, points:[ { x:618, y:225 }, { x:622, y:192 } ] }
+   - { length:2, points:[ { x:618, y:225 }, { x:622, y:192 } ] }
+   - { length:2, points:[ { x:618, y:226 }, { x:621, y:193 } ] }
+   - { length:1, points:[ { x:618, y:226 } ] }
+   - { length:1, points:[ { x:618, y:225 } ] }
+   - { length:2, points:[ { x:618, y:225 }, { x:622, y:191 } ] }
+   - { length:1, points:[ { x:617, y:223 } ] }
+   - { length:1, points:[ { x:617, y:219 } ] }
+   - { length:2, points:[ { x:617, y:225 }, { x:632, y:190 } ] }
+   - { length:1, points:[ { x:617, y:215 } ] }
+   - { length:1, points:[ { x:617, y:214 } ] }
+   - { length:1, points:[ { x:617, y:213 } ] }
+   - { length:1, points:[ { x:617, y:213 } ] }
+   - { length:2, points:[ { x:617, y:224 }, { x:632, y:189 } ] }
+   - { length:1, points:[ { x:616, y:213 } ] }
+   - { length:1, points:[ { x:616, y:213 } ] }
+   - { length:1, points:[ { x:616, y:213 } ] }
+   - { length:1, points:[ { x:616, y:213 } ] }
+   - { length:1, points:[ { x:616, y:213 } ] }
+   - { length:1, points:[ { x:616, y:213 } ] }
+   - { length:1, points:[ { x:616, y:213 } ] }
+   - { length:1, points:[ { x:616, y:213 } ] }
+   - { length:3, points:[ { x:623, y:265 }, { x:617, y:224 }, { x:632,
+       y:189 } ] }
+   - { length:1, points:[ { x:616, y:213 } ] }
+   - { length:2, points:[ { x:622, y:264 }, { x:616, y:220 } ] }
+   - { length:2, points:[ { x:622, y:262 }, { x:617, y:225 } ] }
+   - { length:2, points:[ { x:622, y:262 }, { x:617, y:224 } ] }
+   - { length:2, points:[ { x:621, y:261 }, { x:616, y:214 } ] }
+   - { length:1, points:[ { x:616, y:225 } ] }
+   - { length:2, points:[ { x:621, y:261 }, { x:616, y:224 } ] }
+   - { length:2, points:[ { x:622, y:261 }, { x:616, y:225 } ] }
+   - { length:1, points:[ { x:616, y:233 } ] }
+   - { length:1, points:[ { x:616, y:233 } ] }
+   - { length:1, points:[ { x:616, y:236 } ] }
+   - { length:1, points:[ { x:616, y:235 } ] }
+   - { length:1, points:[ { x:616, y:234 } ] }
+   - { length:1, points:[ { x:616, y:234 } ] }
+   - { length:1, points:[ { x:616, y:233 } ] }
+   - { length:1, points:[ { x:616, y:234 } ] }
+   - { length:1, points:[ { x:616, y:228 } ] }
+   - { length:1, points:[ { x:616, y:228 } ] }
+   - { length:1, points:[ { x:616, y:231 } ] }
+   - { length:1, points:[ { x:616, y:231 } ] }
+   - { length:1, points:[ { x:616, y:231 } ] }
+   - { length:1, points:[ { x:616, y:228 } ] }
+   - { length:1, points:[ { x:616, y:228 } ] }
+   - { length:1, points:[ { x:616, y:230 } ] }
+   - { length:1, points:[ { x:616, y:230 } ] }
+   - { length:1, points:[ { x:616, y:230 } ] }
+   - { length:1, points:[ { x:616, y:230 } ] }
+   - { length:1, points:[ { x:616, y:230 } ] }
+   - { length:1, points:[ { x:616, y:230 } ] }
+   - { length:1, points:[ { x:616, y:230 } ] }
+   - { length:1, points:[ { x:616, y:230 } ] }
+   - { length:1, points:[ { x:616, y:230 } ] }
+   - { length:1, points:[ { x:616, y:231 } ] }
+   - { length:1, points:[ { x:616, y:231 } ] }
+   - { length:1, points:[ { x:616, y:230 } ] }
+   - { length:1, points:[ { x:616, y:230 } ] }
+   - { length:1, points:[ { x:616, y:230 } ] }
+   - { length:1, points:[ { x:616, y:230 } ] }
+   - { length:1, points:[ { x:616, y:230 } ] }
+   - { length:1, points:[ { x:615, y:230 } ] }
+   - { length:1, points:[ { x:615, y:230 } ] }
+   - { length:1, points:[ { x:615, y:230 } ] }
+   - { length:1, points:[ { x:615, y:228 } ] }
+   - { length:1, points:[ { x:615, y:228 } ] }
+   - { length:1, points:[ { x:615, y:227 } ] }
+   - { length:1, points:[ { x:615, y:227 } ] }
+   - { length:1, points:[ { x:615, y:226 } ] }
+   - { length:1, points:[ { x:615, y:226 } ] }
+   - { length:1, points:[ { x:615, y:226 } ] }
+   - { length:1, points:[ { x:615, y:225 } ] }
+   - { length:1, points:[ { x:615, y:224 } ] }
+   - { length:1, points:[ { x:615, y:224 } ] }
+   - { length:1, points:[ { x:614, y:224 } ] }
+   - { length:1, points:[ { x:615, y:224 } ] }
+   - { length:1, points:[ { x:614, y:223 } ] }
+   - { length:1, points:[ { x:615, y:223 } ] }
+   - { length:1, points:[ { x:614, y:225 } ] }
+   - { length:1, points:[ { x:614, y:223 } ] }
+   - { length:1, points:[ { x:614, y:224 } ] }
+   - { length:1, points:[ { x:614, y:224 } ] }
+   - { length:1, points:[ { x:614, y:224 } ] }
+   - { length:1, points:[ { x:614, y:224 } ] }
+   - { length:1, points:[ { x:614, y:224 } ] }
+   - { length:1, points:[ { x:614, y:224 } ] }
+   - { length:1, points:[ { x:614, y:224 } ] }
+   - { length:1, points:[ { x:614, y:224 } ] }
+   - { length:1, points:[ { x:613, y:222 } ] }
+   - { length:1, points:[ { x:613, y:222 } ] }
+   - { length:1, points:[ { x:613, y:223 } ] }
+   - { length:1, points:[ { x:613, y:223 } ] }
+   - { length:1, points:[ { x:613, y:223 } ] }
+   - { length:1, points:[ { x:613, y:223 } ] }
+   - { length:1, points:[ { x:613, y:223 } ] }
+   - { length:1, points:[ { x:613, y:223 } ] }
+   - { length:1, points:[ { x:613, y:222 } ] }
+   - { length:1, points:[ { x:613, y:222 } ] }
+   - { length:1, points:[ { x:612, y:223 } ] }
+   - { length:1, points:[ { x:613, y:222 } ] }
+   - { length:1, points:[ { x:613, y:222 } ] }
+   - { length:1, points:[ { x:613, y:222 } ] }
+   - { length:1, points:[ { x:612, y:222 } ] }
+   - { length:1, points:[ { x:612, y:221 } ] }
+   - { length:1, points:[ { x:612, y:221 } ] }
+   - { length:1, points:[ { x:612, y:221 } ] }
+   - { length:1, points:[ { x:612, y:221 } ] }
+   - { length:1, points:[ { x:612, y:221 } ] }
+   - { length:1, points:[ { x:612, y:220 } ] }
+   - { length:1, points:[ { x:612, y:220 } ] }
+   - { length:1, points:[ { x:612, y:221 } ] }
+   - { length:1, points:[ { x:612, y:220 } ] }
+   - { length:1, points:[ { x:612, y:220 } ] }
+   - { length:1, points:[ { x:612, y:221 } ] }
+   - { length:1, points:[ { x:611, y:220 } ] }
+   - { length:1, points:[ { x:611, y:220 } ] }
+   - { length:1, points:[ { x:611, y:220 } ] }
+   - { length:1, points:[ { x:611, y:221 } ] }
+   - { length:1, points:[ { x:611, y:221 } ] }
+   - { length:1, points:[ { x:611, y:220 } ] }
+   - { length:1, points:[ { x:611, y:220 } ] }
+   - { length:1, points:[ { x:611, y:219 } ] }
+   - { length:1, points:[ { x:611, y:220 } ] }
+   - { length:1, points:[ { x:611, y:219 } ] }
+   - { length:1, points:[ { x:611, y:219 } ] }
+   - { length:1, points:[ { x:611, y:219 } ] }
+   - { length:1, points:[ { x:611, y:219 } ] }
+   - { length:2, points:[ { x:616, y:256 }, { x:611, y:210 } ] }
+   - { length:1, points:[ { x:611, y:219 } ] }
+   - { length:1, points:[ { x:610, y:219 } ] }
+   - { length:1, points:[ { x:611, y:218 } ] }
+   - { length:1, points:[ { x:610, y:218 } ] }
+   - { length:1, points:[ { x:611, y:218 } ] }
+   - { length:1, points:[ { x:611, y:218 } ] }
+   - { length:1, points:[ { x:610, y:218 } ] }
+   - { length:1, points:[ { x:610, y:218 } ] }
+   - { length:1, points:[ { x:610, y:218 } ] }
+   - { length:1, points:[ { x:610, y:217 } ] }
+   - { length:1, points:[ { x:610, y:217 } ] }
+   - { length:1, points:[ { x:610, y:217 } ] }
+   - { length:1, points:[ { x:610, y:217 } ] }
+   - { length:1, points:[ { x:610, y:217 } ] }
+   - { length:1, points:[ { x:610, y:217 } ] }
+   - { length:1, points:[ { x:610, y:217 } ] }
+   - { length:1, points:[ { x:610, y:217 } ] }
+   - { length:1, points:[ { x:610, y:210 } ] }
+   - { length:1, points:[ { x:610, y:210 } ] }
+   - { length:1, points:[ { x:610, y:208 } ] }
+   - { length:1, points:[ { x:610, y:208 } ] }
+   - { length:1, points:[ { x:610, y:209 } ] }
+   - { length:1, points:[ { x:610, y:216 } ] }
+   - { length:1, points:[ { x:610, y:209 } ] }
+   - { length:1, points:[ { x:610, y:216 } ] }
+   - { length:1, points:[ { x:610, y:216 } ] }
+   - { length:1, points:[ { x:610, y:215 } ] }
+   - { length:1, points:[ { x:610, y:215 } ] }
+   - { length:1, points:[ { x:610, y:207 } ] }
+   - { length:1, points:[ { x:610, y:207 } ] }
+   - { length:1, points:[ { x:610, y:216 } ] }
+   - { length:1, points:[ { x:610, y:210 } ] }
+   - { length:1, points:[ { x:610, y:215 } ] }
+   - { length:1, points:[ { x:610, y:216 } ] }
+   - { length:1, points:[ { x:610, y:215 } ] }
+   - { length:1, points:[ { x:610, y:216 } ] }
+   - { length:1, points:[ { x:610, y:215 } ] }
+   - { length:1, points:[ { x:610, y:216 } ] }
+   - { length:1, points:[ { x:610, y:209 } ] }
+   - { length:1, points:[ { x:610, y:208 } ] }
+   - { length:1, points:[ { x:610, y:208 } ] }
+   - { length:1, points:[ { x:610, y:208 } ] }
+   - { length:1, points:[ { x:610, y:208 } ] }
+   - { length:1, points:[ { x:610, y:208 } ] }
+   - { length:1, points:[ { x:610, y:214 } ] }
+   - { length:1, points:[ { x:610, y:215 } ] }
+   - { length:1, points:[ { x:610, y:215 } ] }
+   - { length:1, points:[ { x:610, y:215 } ] }
+   - { length:1, points:[ { x:610, y:215 } ] }
+   - { length:1, points:[ { x:610, y:215 } ] }
+   - { length:1, points:[ { x:610, y:215 } ] }
+   - { length:1, points:[ { x:610, y:214 } ] }
+   - { length:1, points:[ { x:610, y:215 } ] }
+   - { length:1, points:[ { x:610, y:215 } ] }
+   - { length:1, points:[ { x:610, y:215 } ] }
+   - { length:1, points:[ { x:610, y:208 } ] }
+   - { length:1, points:[ { x:610, y:210 } ] }
+   - { length:1, points:[ { x:610, y:208 } ] }
+   - { length:1, points:[ { x:610, y:206 } ] }
+   - { length:1, points:[ { x:610, y:200 } ] }
+   - { length:1, points:[ { x:611, y:190 } ] }
+   - { length:1, points:[ { x:627, y:168 } ] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:1, points:[ { x:626, y:185 } ] }
+   - { length:1, points:[ { x:624, y:189 } ] }
+   - { length:1, points:[ { x:621, y:192 } ] }
+   - { length:1, points:[ { x:616, y:191 } ] }
+   - { length:1, points:[ { x:611, y:194 } ] }
+   - { length:1, points:[ { x:611, y:196 } ] }
+   - { length:1, points:[ { x:611, y:205 } ] }
+   - { length:1, points:[ { x:609, y:210 } ] }
+   - { length:1, points:[ { x:609, y:212 } ] }
+   - { length:1, points:[ { x:609, y:214 } ] }
+   - { length:1, points:[ { x:608, y:214 } ] }
+   - { length:1, points:[ { x:608, y:214 } ] }
+   - { length:1, points:[ { x:608, y:214 } ] }
+   - { length:1, points:[ { x:608, y:214 } ] }
+   - { length:1, points:[ { x:608, y:214 } ] }
+   - { length:1, points:[ { x:608, y:214 } ] }
+   - { length:1, points:[ { x:608, y:214 } ] }
+   - { length:1, points:[ { x:608, y:214 } ] }
+   - { length:1, points:[ { x:608, y:214 } ] }
+   - { length:1, points:[ { x:608, y:214 } ] }
+   - { length:1, points:[ { x:608, y:206 } ] }
+   - { length:1, points:[ { x:608, y:213 } ] }
+   - { length:1, points:[ { x:608, y:214 } ] }
+   - { length:1, points:[ { x:608, y:213 } ] }
+   - { length:1, points:[ { x:608, y:213 } ] }
+   - { length:1, points:[ { x:608, y:213 } ] }
+   - { length:1, points:[ { x:608, y:206 } ] }
+   - { length:1, points:[ { x:608, y:206 } ] }
+   - { length:1, points:[ { x:608, y:206 } ] }
+   - { length:1, points:[ { x:608, y:206 } ] }
+   - { length:1, points:[ { x:608, y:206 } ] }
+   - { length:1, points:[ { x:607, y:206 } ] }
+   - { length:1, points:[ { x:607, y:206 } ] }
+   - { length:1, points:[ { x:607, y:206 } ] }
+   - { length:1, points:[ { x:606, y:206 } ] }
+   - { length:1, points:[ { x:606, y:206 } ] }
+   - { length:1, points:[ { x:606, y:206 } ] }
+   - { length:1, points:[ { x:605, y:206 } ] }
+   - { length:1, points:[ { x:605, y:206 } ] }
+   - { length:1, points:[ { x:605, y:206 } ] }
+   - { length:1, points:[ { x:604, y:206 } ] }
+   - { length:1, points:[ { x:604, y:205 } ] }
+   - { length:1, points:[ { x:603, y:205 } ] }
+   - { length:1, points:[ { x:603, y:205 } ] }
+   - { length:1, points:[ { x:603, y:205 } ] }
+   - { length:1, points:[ { x:602, y:204 } ] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:2, points:[ { x:595, y:208 }, { x:595, y:208 } ] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:1, points:[ { x:31, y:215 } ] }
+   - { length:1, points:[ { x:30, y:215 } ] }
+   - { length:1, points:[ { x:30, y:216 } ] }
+   - { length:1, points:[ { x:30, y:216 } ] }
+   - { length:1, points:[ { x:29, y:217 } ] }
+   - { length:1, points:[ { x:29, y:217 } ] }
+   - { length:1, points:[ { x:28, y:217 } ] }
+   - { length:1, points:[ { x:28, y:217 } ] }
+   - { length:1, points:[ { x:28, y:218 } ] }
+   - { length:1, points:[ { x:28, y:218 } ] }
+   - { length:1, points:[ { x:28, y:218 } ] }
+   - { length:1, points:[ { x:27, y:218 } ] }
+   - { length:1, points:[ { x:27, y:218 } ] }
+   - { length:1, points:[ { x:27, y:218 } ] }
+   - { length:1, points:[ { x:27, y:218 } ] }
+   - { length:1, points:[ { x:27, y:219 } ] }
+   - { length:1, points:[ { x:27, y:219 } ] }
+   - { length:1, points:[ { x:27, y:218 } ] }
+   - { length:1, points:[ { x:27, y:219 } ] }
+   - { length:1, points:[ { x:26, y:219 } ] }
+   - { length:1, points:[ { x:26, y:219 } ] }
+   - { length:1, points:[ { x:26, y:219 } ] }
+   - { length:1, points:[ { x:26, y:219 } ] }
+   - { length:1, points:[ { x:26, y:218 } ] }
+   - { length:1, points:[ { x:26, y:218 } ] }
+   - { length:1, points:[ { x:26, y:218 } ] }
+   - { length:1, points:[ { x:26, y:219 } ] }
+   - { length:1, points:[ { x:26, y:219 } ] }
+   - { length:1, points:[ { x:26, y:219 } ] }
+   - { length:1, points:[ { x:26, y:219 } ] }
+   - { length:1, points:[ { x:26, y:219 } ] }
+   - { length:1, points:[ { x:26, y:219 } ] }
+   - { length:1, points:[ { x:26, y:219 } ] }
+   - { length:1, points:[ { x:26, y:219 } ] }
+   - { length:1, points:[ { x:26, y:219 } ] }
+   - { length:1, points:[ { x:26, y:218 } ] }
+   - { length:1, points:[ { x:26, y:219 } ] }
+   - { length:1, points:[ { x:26, y:219 } ] }
+   - { length:1, points:[ { x:26, y:219 } ] }
+   - { length:1, points:[ { x:26, y:219 } ] }
+   - { length:1, points:[ { x:26, y:219 } ] }
+   - { length:1, points:[ { x:26, y:219 } ] }
+   - { length:1, points:[ { x:26, y:219 } ] }
+   - { length:1, points:[ { x:26, y:219 } ] }
+   - { length:1, points:[ { x:27, y:219 } ] }
+   - { length:1, points:[ { x:26, y:219 } ] }
+   - { length:1, points:[ { x:26, y:219 } ] }
+   - { length:1, points:[ { x:27, y:219 } ] }
+   - { length:1, points:[ { x:27, y:219 } ] }
+   - { length:1, points:[ { x:27, y:219 } ] }
+   - { length:1, points:[ { x:27, y:220 } ] }
+   - { length:1, points:[ { x:27, y:220 } ] }
+   - { length:1, points:[ { x:27, y:220 } ] }
+   - { length:1, points:[ { x:27, y:220 } ] }
+   - { length:1, points:[ { x:27, y:221 } ] }
+   - { length:1, points:[ { x:27, y:221 } ] }
+   - { length:1, points:[ { x:27, y:221 } ] }
+   - { length:1, points:[ { x:27, y:221 } ] }
+   - { length:1, points:[ { x:27, y:221 } ] }
+   - { length:1, points:[ { x:27, y:222 } ] }
+   - { length:1, points:[ { x:28, y:222 } ] }
+   - { length:1, points:[ { x:27, y:222 } ] }
+   - { length:1, points:[ { x:27, y:222 } ] }
+   - { length:1, points:[ { x:27, y:223 } ] }
+   - { length:1, points:[ { x:27, y:223 } ] }
+   - { length:1, points:[ { x:27, y:223 } ] }
+   - { length:1, points:[ { x:27, y:224 } ] }
+   - { length:1, points:[ { x:27, y:224 } ] }
+   - { length:1, points:[ { x:27, y:223 } ] }
+   - { length:1, points:[ { x:27, y:224 } ] }
+   - { length:1, points:[ { x:27, y:224 } ] }
+   - { length:1, points:[ { x:27, y:224 } ] }
+   - { length:1, points:[ { x:27, y:224 } ] }
+   - { length:1, points:[ { x:27, y:224 } ] }
+   - { length:1, points:[ { x:27, y:224 } ] }
+   - { length:1, points:[ { x:27, y:224 } ] }
+   - { length:1, points:[ { x:27, y:225 } ] }
+   - { length:1, points:[ { x:27, y:225 } ] }
+   - { length:1, points:[ { x:27, y:225 } ] }
+   - { length:1, points:[ { x:27, y:225 } ] }
+   - { length:1, points:[ { x:27, y:225 } ] }
+   - { length:1, points:[ { x:27, y:225 } ] }
+   - { length:1, points:[ { x:27, y:225 } ] }
+   - { length:1, points:[ { x:27, y:225 } ] }
+   - { length:1, points:[ { x:27, y:226 } ] }
+   - { length:1, points:[ { x:27, y:226 } ] }
+   - { length:1, points:[ { x:27, y:226 } ] }
+   - { length:1, points:[ { x:27, y:226 } ] }
+   - { length:1, points:[ { x:27, y:226 } ] }
+   - { length:1, points:[ { x:27, y:227 } ] }
+   - { length:1, points:[ { x:27, y:227 } ] }
+   - { length:1, points:[ { x:26, y:227 } ] }
+   - { length:1, points:[ { x:27, y:227 } ] }
+   - { length:1, points:[ { x:26, y:228 } ] }
+   - { length:1, points:[ { x:26, y:228 } ] }
+   - { length:1, points:[ { x:26, y:228 } ] }
+   - { length:1, points:[ { x:26, y:228 } ] }
+   - { length:1, points:[ { x:26, y:229 } ] }
+   - { length:1, points:[ { x:26, y:229 } ] }
+   - { length:1, points:[ { x:25, y:229 } ] }
+   - { length:1, points:[ { x:25, y:230 } ] }
+   - { length:1, points:[ { x:25, y:230 } ] }
+   - { length:1, points:[ { x:25, y:231 } ] }
+   - { length:1, points:[ { x:24, y:231 } ] }
+   - { length:1, points:[ { x:24, y:232 } ] }
+   - { length:1, points:[ { x:24, y:232 } ] }
+   - { length:1, points:[ { x:23, y:233 } ] }
+   - { length:1, points:[ { x:23, y:233 } ] }
+   - { length:1, points:[ { x:23, y:234 } ] }
+   - { length:1, points:[ { x:22, y:235 } ] }
+   - { length:1, points:[ { x:22, y:235 } ] }
+   - { length:1, points:[ { x:21, y:236 } ] }
+   - { length:1, points:[ { x:21, y:237 } ] }
+   - { length:1, points:[ { x:20, y:237 } ] }
+   - { length:1, points:[ { x:20, y:238 } ] }
+   - { length:1, points:[ { x:20, y:238 } ] }
+   - { length:1, points:[ { x:19, y:238 } ] }
+   - { length:1, points:[ { x:19, y:238 } ] }
+   - { length:1, points:[ { x:18, y:238 } ] }
+   - { length:1, points:[ { x:18, y:238 } ] }
+   - { length:1, points:[ { x:18, y:238 } ] }
+   - { length:1, points:[ { x:18, y:239 } ] }
+   - { length:1, points:[ { x:17, y:239 } ] }
+   - { length:1, points:[ { x:17, y:240 } ] }
+   - { length:1, points:[ { x:17, y:240 } ] }
+   - { length:1, points:[ { x:16, y:239 } ] }
+   - { length:1, points:[ { x:16, y:239 } ] }
+   - { length:1, points:[ { x:16, y:240 } ] }
+   - { length:1, points:[ { x:16, y:240 } ] }
+   - { length:1, points:[ { x:15, y:240 } ] }
+   - { length:1, points:[ { x:15, y:254 } ] }
+   - { length:1, points:[ { x:15, y:256 } ] }
+   - { length:1, points:[ { x:15, y:256 } ] }
+   - { length:1, points:[ { x:14, y:257 } ] }
+   - { length:1, points:[ { x:14, y:257 } ] }
+   - { length:1, points:[ { x:14, y:258 } ] }
+   - { length:1, points:[ { x:13, y:260 } ] }
+   - { length:1, points:[ { x:13, y:260 } ] }
+   - { length:1, points:[ { x:12, y:261 } ] }
+   - { length:1, points:[ { x:12, y:262 } ] }
+   - { length:1, points:[ { x:12, y:263 } ] }
+   - { length:1, points:[ { x:12, y:267 } ] }
+   - { length:1, points:[ { x:11, y:268 } ] }
+   - { length:1, points:[ { x:11, y:268 } ] }
+   - { length:1, points:[ { x:11, y:269 } ] }
+   - { length:1, points:[ { x:11, y:270 } ] }
+   - { length:1, points:[ { x:11, y:270 } ] }
+   - { length:1, points:[ { x:11, y:270 } ] }
+   - { length:1, points:[ { x:11, y:270 } ] }
+   - { length:1, points:[ { x:11, y:271 } ] }
+   - { length:1, points:[ { x:10, y:271 } ] }
+   - { length:1, points:[ { x:10, y:272 } ] }
+   - { length:1, points:[ { x:10, y:273 } ] }
+   - { length:1, points:[ { x:10, y:273 } ] }
+   - { length:1, points:[ { x:9, y:274 } ] }
+   - { length:1, points:[ { x:9, y:274 } ] }
+   - { length:1, points:[ { x:8, y:275 } ] }
+   - { length:1, points:[ { x:7, y:276 } ] }
+   - { length:1, points:[ { x:7, y:276 } ] }
+   - { length:1, points:[ { x:7, y:277 } ] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:1, points:[ { x:249, y:5 } ] }
+   - { length:0, points:[] }
+   - { length:1, points:[ { x:249, y:5 } ] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:1, points:[ { x:248, y:5 } ] }
+   - { length:1, points:[ { x:248, y:5 } ] }
+   - { length:1, points:[ { x:248, y:5 } ] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:1, points:[ { x:252, y:3 } ] }
+   - { length:1, points:[ { x:251, y:3 } ] }
+   - { length:1, points:[ { x:251, y:3 } ] }
+   - { length:1, points:[ { x:252, y:6 } ] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:1, points:[ { x:252, y:6 } ] }
+   - { length:1, points:[ { x:252, y:6 } ] }
+   - { length:1, points:[ { x:252, y:3 } ] }
+   - { length:1, points:[ { x:252, y:3 } ] }
+   - { length:1, points:[ { x:252, y:3 } ] }
+   - { length:1, points:[ { x:252, y:3 } ] }
+   - { length:1, points:[ { x:252, y:6 } ] }
+   - { length:1, points:[ { x:252, y:4 } ] }
+   - { length:1, points:[ { x:252, y:5 } ] }
+   - { length:1, points:[ { x:252, y:4 } ] }
+   - { length:1, points:[ { x:252, y:4 } ] }
+   - { length:1, points:[ { x:252, y:6 } ] }
+   - { length:1, points:[ { x:252, y:5 } ] }
+   - { length:1, points:[ { x:252, y:7 } ] }
+   - { length:1, points:[ { x:252, y:4 } ] }
+   - { length:1, points:[ { x:251, y:4 } ] }
+   - { length:1, points:[ { x:251, y:5 } ] }
+   - { length:1, points:[ { x:251, y:5 } ] }
+   - { length:1, points:[ { x:251, y:7 } ] }
+   - { length:1, points:[ { x:251, y:7 } ] }
+   - { length:1, points:[ { x:251, y:4 } ] }
+   - { length:1, points:[ { x:250, y:8 } ] }
+   - { length:1, points:[ { x:250, y:8 } ] }
+   - { length:1, points:[ { x:250, y:8 } ] }
+   - { length:1, points:[ { x:250, y:8 } ] }
+   - { length:1, points:[ { x:250, y:8 } ] }
+   - { length:1, points:[ { x:250, y:8 } ] }
+   - { length:1, points:[ { x:250, y:8 } ] }
+   - { length:1, points:[ { x:249, y:5 } ] }
+   - { length:1, points:[ { x:249, y:5 } ] }
+   - { length:1, points:[ { x:249, y:4 } ] }
+   - { length:1, points:[ { x:249, y:5 } ] }
+   - { length:1, points:[ { x:249, y:5 } ] }
+   - { length:1, points:[ { x:249, y:5 } ] }
+   - { length:1, points:[ { x:249, y:5 } ] }
+   - { length:1, points:[ { x:248, y:5 } ] }
+   - { length:1, points:[ { x:249, y:5 } ] }
+   - { length:1, points:[ { x:248, y:5 } ] }
+   - { length:1, points:[ { x:248, y:5 } ] }
+   - { length:1, points:[ { x:248, y:5 } ] }
+   - { length:1, points:[ { x:248, y:6 } ] }
+   - { length:1, points:[ { x:248, y:6 } ] }
+   - { length:1, points:[ { x:248, y:6 } ] }
+   - { length:1, points:[ { x:248, y:6 } ] }
+   - { length:1, points:[ { x:248, y:6 } ] }
+   - { length:1, points:[ { x:248, y:6 } ] }
+   - { length:1, points:[ { x:247, y:6 } ] }
+   - { length:1, points:[ { x:247, y:6 } ] }
+   - { length:1, points:[ { x:247, y:6 } ] }
+   - { length:1, points:[ { x:247, y:6 } ] }
+   - { length:1, points:[ { x:247, y:6 } ] }
+   - { length:1, points:[ { x:248, y:7 } ] }
+   - { length:1, points:[ { x:248, y:10 } ] }
+   - { length:1, points:[ { x:248, y:7 } ] }
+   - { length:1, points:[ { x:248, y:10 } ] }
+   - { length:1, points:[ { x:248, y:10 } ] }
+   - { length:1, points:[ { x:248, y:11 } ] }
+   - { length:1, points:[ { x:248, y:11 } ] }
+   - { length:1, points:[ { x:247, y:11 } ] }
+   - { length:1, points:[ { x:247, y:11 } ] }
+   - { length:1, points:[ { x:247, y:11 } ] }
+   - { length:1, points:[ { x:247, y:11 } ] }
+   - { length:1, points:[ { x:247, y:11 } ] }
+   - { length:1, points:[ { x:247, y:11 } ] }
+   - { length:1, points:[ { x:246, y:11 } ] }
+   - { length:1, points:[ { x:246, y:11 } ] }
+   - { length:1, points:[ { x:246, y:11 } ] }
+   - { length:1, points:[ { x:245, y:11 } ] }
+   - { length:1, points:[ { x:246, y:11 } ] }
+   - { length:1, points:[ { x:245, y:12 } ] }
+   - { length:1, points:[ { x:245, y:12 } ] }
+   - { length:1, points:[ { x:245, y:12 } ] }
+   - { length:1, points:[ { x:245, y:12 } ] }
+   - { length:1, points:[ { x:245, y:12 } ] }
+   - { length:1, points:[ { x:244, y:12 } ] }
+   - { length:1, points:[ { x:244, y:12 } ] }
+   - { length:1, points:[ { x:244, y:12 } ] }
+   - { length:1, points:[ { x:244, y:12 } ] }
+   - { length:1, points:[ { x:244, y:12 } ] }
+   - { length:1, points:[ { x:243, y:12 } ] }
+   - { length:1, points:[ { x:243, y:13 } ] }
+   - { length:1, points:[ { x:243, y:13 } ] }
+   - { length:1, points:[ { x:243, y:13 } ] }
+   - { length:1, points:[ { x:243, y:13 } ] }
+   - { length:1, points:[ { x:243, y:13 } ] }
+   - { length:1, points:[ { x:243, y:13 } ] }
+   - { length:1, points:[ { x:242, y:13 } ] }
+   - { length:1, points:[ { x:242, y:13 } ] }
+   - { length:1, points:[ { x:242, y:13 } ] }
+   - { length:1, points:[ { x:242, y:13 } ] }
+   - { length:1, points:[ { x:241, y:14 } ] }
+   - { length:1, points:[ { x:241, y:13 } ] }
+   - { length:1, points:[ { x:241, y:13 } ] }
+   - { length:1, points:[ { x:241, y:13 } ] }
+   - { length:1, points:[ { x:241, y:13 } ] }
+   - { length:1, points:[ { x:241, y:14 } ] }
+   - { length:1, points:[ { x:241, y:14 } ] }
+   - { length:1, points:[ { x:241, y:14 } ] }
+   - { length:1, points:[ { x:241, y:14 } ] }
+   - { length:1, points:[ { x:240, y:14 } ] }
+   - { length:1, points:[ { x:240, y:14 } ] }
+   - { length:1, points:[ { x:240, y:14 } ] }
+   - { length:1, points:[ { x:240, y:14 } ] }
+   - { length:1, points:[ { x:239, y:14 } ] }
+   - { length:1, points:[ { x:239, y:14 } ] }
+   - { length:1, points:[ { x:238, y:14 } ] }
+   - { length:1, points:[ { x:239, y:15 } ] }
+   - { length:1, points:[ { x:239, y:15 } ] }
+   - { length:1, points:[ { x:238, y:15 } ] }
+   - { length:1, points:[ { x:238, y:15 } ] }
+   - { length:1, points:[ { x:238, y:15 } ] }
+   - { length:1, points:[ { x:238, y:15 } ] }
+   - { length:1, points:[ { x:238, y:15 } ] }
+   - { length:1, points:[ { x:238, y:15 } ] }
+   - { length:1, points:[ { x:238, y:15 } ] }
+   - { length:1, points:[ { x:237, y:15 } ] }
+   - { length:1, points:[ { x:238, y:15 } ] }
+   - { length:1, points:[ { x:237, y:15 } ] }
+   - { length:1, points:[ { x:237, y:17 } ] }
+   - { length:1, points:[ { x:237, y:17 } ] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:1, points:[ { x:217, y:123 } ] }
+   - { length:1, points:[ { x:215, y:115 } ] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:1, points:[ { x:231, y:18 } ] }
+   - { length:1, points:[ { x:232, y:13 } ] }
+   - { length:1, points:[ { x:232, y:17 } ] }
+   - { length:1, points:[ { x:232, y:18 } ] }
+   - { length:1, points:[ { x:232, y:13 } ] }
+   - { length:1, points:[ { x:232, y:12 } ] }
+   - { length:1, points:[ { x:233, y:11 } ] }
+   - { length:1, points:[ { x:233, y:10 } ] }
+   - { length:1, points:[ { x:233, y:9 } ] }
+   - { length:1, points:[ { x:233, y:9 } ] }
+   - { length:1, points:[ { x:234, y:9 } ] }
+   - { length:1, points:[ { x:234, y:9 } ] }
+   - { length:1, points:[ { x:234, y:9 } ] }
+   - { length:1, points:[ { x:235, y:8 } ] }
+   - { length:1, points:[ { x:235, y:8 } ] }
+   - { length:1, points:[ { x:235, y:8 } ] }
+   - { length:1, points:[ { x:236, y:8 } ] }
+   - { length:1, points:[ { x:236, y:7 } ] }
+   - { length:1, points:[ { x:236, y:8 } ] }
+   - { length:1, points:[ { x:236, y:7 } ] }
+   - { length:1, points:[ { x:236, y:7 } ] }
+   - { length:1, points:[ { x:237, y:7 } ] }
+   - { length:1, points:[ { x:237, y:10 } ] }
+   - { length:1, points:[ { x:237, y:11 } ] }
+   - { length:1, points:[ { x:237, y:7 } ] }
+   - { length:1, points:[ { x:238, y:6 } ] }
+   - { length:1, points:[ { x:239, y:6 } ] }
+   - { length:1, points:[ { x:238, y:6 } ] }
+   - { length:1, points:[ { x:239, y:5 } ] }
+   - { length:1, points:[ { x:238, y:5 } ] }
+   - { length:1, points:[ { x:238, y:5 } ] }
+   - { length:1, points:[ { x:237, y:5 } ] }
+   - { length:1, points:[ { x:240, y:5 } ] }
+   - { length:1, points:[ { x:240, y:5 } ] }
+   - { length:1, points:[ { x:241, y:7 } ] }
+   - { length:1, points:[ { x:240, y:4 } ] }
+   - { length:1, points:[ { x:241, y:5 } ] }
+   - { length:1, points:[ { x:240, y:4 } ] }
+   - { length:1, points:[ { x:240, y:7 } ] }
+   - { length:1, points:[ { x:238, y:7 } ] }
+   - { length:1, points:[ { x:238, y:4 } ] }
+   - { length:1, points:[ { x:238, y:4 } ] }
+   - { length:1, points:[ { x:238, y:4 } ] }
+   - { length:1, points:[ { x:238, y:3 } ] }
+   - { length:1, points:[ { x:239, y:3 } ] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:1, points:[ { x:536, y:184 } ] }
+   - { length:1, points:[ { x:536, y:185 } ] }
+   - { length:1, points:[ { x:536, y:185 } ] }
+   - { length:1, points:[ { x:536, y:186 } ] }
+   - { length:1, points:[ { x:536, y:186 } ] }
+   - { length:1, points:[ { x:536, y:187 } ] }
+   - { length:1, points:[ { x:536, y:187 } ] }
+   - { length:1, points:[ { x:536, y:188 } ] }
+   - { length:1, points:[ { x:534, y:189 } ] }
+   - { length:1, points:[ { x:535, y:189 } ] }
+   - { length:1, points:[ { x:535, y:189 } ] }
+   - { length:1, points:[ { x:534, y:188 } ] }
+   - { length:1, points:[ { x:535, y:189 } ] }
+   - { length:1, points:[ { x:534, y:190 } ] }
+   - { length:1, points:[ { x:579, y:191 } ] }
+   - { length:1, points:[ { x:579, y:191 } ] }
+   - { length:1, points:[ { x:578, y:192 } ] }
+   - { length:1, points:[ { x:579, y:192 } ] }
+   - { length:1, points:[ { x:534, y:192 } ] }
+   - { length:1, points:[ { x:533, y:192 } ] }
+   - { length:1, points:[ { x:578, y:193 } ] }
+   - { length:1, points:[ { x:533, y:193 } ] }
+   - { length:1, points:[ { x:531, y:195 } ] }
+   - { length:1, points:[ { x:531, y:196 } ] }
+   - { length:1, points:[ { x:532, y:194 } ] }
+   - { length:1, points:[ { x:531, y:196 } ] }
+   - { length:1, points:[ { x:531, y:199 } ] }
+   - { length:1, points:[ { x:531, y:200 } ] }
+   - { length:1, points:[ { x:531, y:201 } ] }
+   - { length:1, points:[ { x:531, y:201 } ] }
+   - { length:1, points:[ { x:531, y:202 } ] }
+   - { length:1, points:[ { x:531, y:202 } ] }
+   - { length:1, points:[ { x:531, y:202 } ] }
+   - { length:1, points:[ { x:530, y:203 } ] }
+   - { length:1, points:[ { x:531, y:203 } ] }
+   - { length:1, points:[ { x:530, y:204 } ] }
+   - { length:1, points:[ { x:530, y:204 } ] }
+   - { length:1, points:[ { x:530, y:204 } ] }
+   - { length:1, points:[ { x:530, y:204 } ] }
+   - { length:1, points:[ { x:530, y:204 } ] }
+   - { length:1, points:[ { x:529, y:205 } ] }
+   - { length:1, points:[ { x:529, y:205 } ] }
+   - { length:1, points:[ { x:529, y:205 } ] }
+   - { length:1, points:[ { x:529, y:205 } ] }
+   - { length:1, points:[ { x:529, y:206 } ] }
+   - { length:1, points:[ { x:529, y:206 } ] }
+   - { length:1, points:[ { x:529, y:206 } ] }
+   - { length:1, points:[ { x:528, y:206 } ] }
+   - { length:1, points:[ { x:528, y:205 } ] }
+   - { length:1, points:[ { x:527, y:206 } ] }
+   - { length:1, points:[ { x:527, y:206 } ] }
+   - { length:1, points:[ { x:574, y:205 } ] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:1, points:[ { x:555, y:227 } ] }
+   - { length:1, points:[ { x:554, y:227 } ] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:1, points:[ { x:7, y:287 } ] }
+   - { length:1, points:[ { x:8, y:286 } ] }
+   - { length:1, points:[ { x:8, y:285 } ] }
+   - { length:1, points:[ { x:9, y:289 } ] }
+   - { length:1, points:[ { x:9, y:284 } ] }
+   - { length:1, points:[ { x:9, y:283 } ] }
+   - { length:1, points:[ { x:10, y:283 } ] }
+   - { length:1, points:[ { x:10, y:282 } ] }
+   - { length:1, points:[ { x:11, y:281 } ] }
+   - { length:1, points:[ { x:11, y:281 } ] }
+   - { length:1, points:[ { x:12, y:285 } ] }
+   - { length:1, points:[ { x:12, y:283 } ] }
+   - { length:1, points:[ { x:13, y:281 } ] }
+   - { length:1, points:[ { x:14, y:280 } ] }
+   - { length:1, points:[ { x:14, y:279 } ] }
+   - { length:1, points:[ { x:15, y:278 } ] }
+   - { length:1, points:[ { x:16, y:277 } ] }
+   - { length:1, points:[ { x:17, y:275 } ] }
+   - { length:1, points:[ { x:17, y:274 } ] }
+   - { length:1, points:[ { x:18, y:272 } ] }
+   - { length:1, points:[ { x:19, y:270 } ] }
+   - { length:1, points:[ { x:20, y:269 } ] }
+   - { length:1, points:[ { x:20, y:269 } ] }
+   - { length:1, points:[ { x:21, y:267 } ] }
+   - { length:1, points:[ { x:22, y:267 } ] }
+   - { length:1, points:[ { x:23, y:266 } ] }
+   - { length:1, points:[ { x:23, y:265 } ] }
+   - { length:1, points:[ { x:24, y:263 } ] }
+   - { length:1, points:[ { x:25, y:263 } ] }
+   - { length:1, points:[ { x:25, y:263 } ] }
+   - { length:1, points:[ { x:26, y:262 } ] }
+   - { length:1, points:[ { x:26, y:262 } ] }
+   - { length:1, points:[ { x:27, y:261 } ] }
+   - { length:1, points:[ { x:27, y:261 } ] }
+   - { length:1, points:[ { x:28, y:260 } ] }
+   - { length:1, points:[ { x:28, y:260 } ] }
+   - { length:1, points:[ { x:28, y:260 } ] }
+   - { length:1, points:[ { x:29, y:259 } ] }
+   - { length:1, points:[ { x:29, y:259 } ] }
+   - { length:1, points:[ { x:30, y:258 } ] }
+   - { length:1, points:[ { x:30, y:258 } ] }
+   - { length:1, points:[ { x:30, y:257 } ] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:1, points:[ { x:532, y:208 } ] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:1, points:[ { x:131, y:259 } ] }
+   - { length:0, points:[] }
+   - { length:1, points:[ { x:133, y:258 } ] }
+   - { length:1, points:[ { x:132, y:257 } ] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:1, points:[ { x:529, y:202 } ] }
+   - { length:1, points:[ { x:529, y:202 } ] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:1, points:[ { x:397, y:284 } ] }
+   - { length:1, points:[ { x:397, y:284 } ] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:1, points:[ { x:398, y:284 } ] }
+   - { length:0, points:[] }
+   - { length:1, points:[ { x:399, y:285 } ] }
+   - { length:1, points:[ { x:399, y:285 } ] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:1, points:[ { x:400, y:285 } ] }
+   - { length:1, points:[ { x:400, y:285 } ] }
+   - { length:2, points:[ { x:400, y:285 }, { x:215, y:3 } ] }
+   - { length:1, points:[ { x:215, y:3 } ] }
+   - { length:2, points:[ { x:401, y:285 }, { x:215, y:3 } ] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:1, points:[ { x:215, y:3 } ] }
+   - { length:1, points:[ { x:214, y:3 } ] }
+   - { length:1, points:[ { x:214, y:3 } ] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:1, points:[ { x:214, y:3 } ] }
+   - { length:1, points:[ { x:213, y:3 } ] }
+   - { length:1, points:[ { x:213, y:4 } ] }
+   - { length:1, points:[ { x:213, y:4 } ] }
+   - { length:1, points:[ { x:212, y:4 } ] }
+   - { length:1, points:[ { x:212, y:4 } ] }
+   - { length:1, points:[ { x:212, y:4 } ] }
+   - { length:1, points:[ { x:212, y:4 } ] }
+   - { length:1, points:[ { x:211, y:4 } ] }
+   - { length:1, points:[ { x:211, y:4 } ] }
+   - { length:1, points:[ { x:211, y:4 } ] }
+   - { length:1, points:[ { x:211, y:4 } ] }
+   - { length:1, points:[ { x:211, y:4 } ] }
+   - { length:1, points:[ { x:211, y:4 } ] }
+   - { length:1, points:[ { x:210, y:4 } ] }
+   - { length:1, points:[ { x:210, y:4 } ] }
+   - { length:1, points:[ { x:210, y:4 } ] }
+   - { length:1, points:[ { x:210, y:4 } ] }
+   - { length:1, points:[ { x:210, y:4 } ] }
+   - { length:1, points:[ { x:209, y:4 } ] }
+   - { length:1, points:[ { x:209, y:4 } ] }
+   - { length:1, points:[ { x:209, y:4 } ] }
+   - { length:1, points:[ { x:208, y:4 } ] }
+   - { length:1, points:[ { x:208, y:4 } ] }
+   - { length:1, points:[ { x:208, y:4 } ] }
+   - { length:1, points:[ { x:208, y:4 } ] }
+   - { length:1, points:[ { x:207, y:4 } ] }
+   - { length:1, points:[ { x:207, y:4 } ] }
+   - { length:1, points:[ { x:207, y:4 } ] }
+   - { length:1, points:[ { x:207, y:4 } ] }
+   - { length:1, points:[ { x:206, y:4 } ] }
+   - { length:1, points:[ { x:206, y:4 } ] }
+   - { length:1, points:[ { x:206, y:4 } ] }
+   - { length:1, points:[ { x:205, y:4 } ] }
+   - { length:1, points:[ { x:205, y:4 } ] }
+   - { length:1, points:[ { x:205, y:4 } ] }
+   - { length:1, points:[ { x:205, y:4 } ] }
+   - { length:1, points:[ { x:205, y:4 } ] }
+   - { length:1, points:[ { x:204, y:4 } ] }
+   - { length:1, points:[ { x:204, y:4 } ] }
+   - { length:1, points:[ { x:204, y:4 } ] }
+   - { length:1, points:[ { x:203, y:4 } ] }
+   - { length:1, points:[ { x:203, y:4 } ] }
+   - { length:1, points:[ { x:203, y:4 } ] }
+   - { length:1, points:[ { x:203, y:4 } ] }
+   - { length:1, points:[ { x:202, y:4 } ] }
+   - { length:1, points:[ { x:202, y:4 } ] }
+   - { length:1, points:[ { x:202, y:4 } ] }
+   - { length:1, points:[ { x:202, y:5 } ] }
+   - { length:1, points:[ { x:201, y:4 } ] }
+   - { length:1, points:[ { x:201, y:5 } ] }
+   - { length:1, points:[ { x:200, y:5 } ] }
+   - { length:1, points:[ { x:201, y:5 } ] }
+   - { length:1, points:[ { x:201, y:5 } ] }
+   - { length:1, points:[ { x:201, y:5 } ] }
+   - { length:1, points:[ { x:200, y:5 } ] }
+   - { length:1, points:[ { x:200, y:5 } ] }
+   - { length:1, points:[ { x:199, y:5 } ] }
+   - { length:1, points:[ { x:200, y:5 } ] }
+   - { length:1, points:[ { x:200, y:5 } ] }
+   - { length:1, points:[ { x:199, y:5 } ] }
+   - { length:1, points:[ { x:199, y:5 } ] }
+   - { length:1, points:[ { x:199, y:5 } ] }
+   - { length:1, points:[ { x:199, y:5 } ] }
+   - { length:1, points:[ { x:198, y:5 } ] }
+   - { length:1, points:[ { x:198, y:5 } ] }
+   - { length:1, points:[ { x:198, y:5 } ] }
+   - { length:1, points:[ { x:198, y:5 } ] }
+   - { length:1, points:[ { x:197, y:5 } ] }
+   - { length:1, points:[ { x:197, y:5 } ] }
+   - { length:1, points:[ { x:197, y:5 } ] }
+   - { length:1, points:[ { x:196, y:5 } ] }
+   - { length:1, points:[ { x:196, y:5 } ] }
+   - { length:1, points:[ { x:196, y:5 } ] }
+   - { length:1, points:[ { x:195, y:5 } ] }
+   - { length:1, points:[ { x:195, y:5 } ] }
+   - { length:1, points:[ { x:195, y:5 } ] }
+   - { length:1, points:[ { x:195, y:5 } ] }
+   - { length:1, points:[ { x:194, y:5 } ] }
+   - { length:1, points:[ { x:194, y:5 } ] }
+   - { length:1, points:[ { x:194, y:5 } ] }
+   - { length:1, points:[ { x:193, y:5 } ] }
+   - { length:1, points:[ { x:193, y:5 } ] }
+   - { length:1, points:[ { x:192, y:5 } ] }
+   - { length:1, points:[ { x:192, y:5 } ] }
+   - { length:1, points:[ { x:192, y:5 } ] }
+   - { length:1, points:[ { x:192, y:5 } ] }
+   - { length:1, points:[ { x:191, y:6 } ] }
+   - { length:1, points:[ { x:191, y:5 } ] }
+   - { length:1, points:[ { x:191, y:6 } ] }
+   - { length:1, points:[ { x:190, y:6 } ] }
+   - { length:1, points:[ { x:190, y:6 } ] }
+   - { length:1, points:[ { x:190, y:6 } ] }
+   - { length:1, points:[ { x:190, y:6 } ] }
+   - { length:1, points:[ { x:189, y:6 } ] }
+   - { length:1, points:[ { x:189, y:6 } ] }
+   - { length:1, points:[ { x:189, y:6 } ] }
+   - { length:1, points:[ { x:189, y:6 } ] }
+   - { length:1, points:[ { x:188, y:6 } ] }
+   - { length:1, points:[ { x:188, y:6 } ] }
+   - { length:1, points:[ { x:188, y:6 } ] }
+   - { length:1, points:[ { x:188, y:6 } ] }
+   - { length:1, points:[ { x:188, y:6 } ] }
+   - { length:1, points:[ { x:188, y:6 } ] }
+   - { length:1, points:[ { x:187, y:6 } ] }
+   - { length:1, points:[ { x:187, y:6 } ] }
+   - { length:1, points:[ { x:186, y:6 } ] }
+   - { length:1, points:[ { x:186, y:6 } ] }
+   - { length:1, points:[ { x:186, y:7 } ] }
+   - { length:1, points:[ { x:186, y:7 } ] }
+   - { length:1, points:[ { x:186, y:7 } ] }
+   - { length:1, points:[ { x:185, y:7 } ] }
+   - { length:1, points:[ { x:185, y:7 } ] }
+   - { length:1, points:[ { x:185, y:7 } ] }
+   - { length:1, points:[ { x:185, y:7 } ] }
+   - { length:1, points:[ { x:184, y:7 } ] }
+   - { length:1, points:[ { x:184, y:7 } ] }
+   - { length:1, points:[ { x:184, y:7 } ] }
+   - { length:1, points:[ { x:184, y:7 } ] }
+   - { length:1, points:[ { x:183, y:7 } ] }
+   - { length:1, points:[ { x:183, y:7 } ] }
+   - { length:1, points:[ { x:183, y:7 } ] }
+   - { length:1, points:[ { x:183, y:7 } ] }
+   - { length:1, points:[ { x:182, y:7 } ] }
+   - { length:1, points:[ { x:181, y:7 } ] }
+   - { length:1, points:[ { x:181, y:7 } ] }
+   - { length:1, points:[ { x:181, y:7 } ] }
+   - { length:1, points:[ { x:181, y:7 } ] }
+   - { length:1, points:[ { x:181, y:7 } ] }
+   - { length:1, points:[ { x:180, y:7 } ] }
+   - { length:1, points:[ { x:180, y:7 } ] }
+   - { length:1, points:[ { x:180, y:7 } ] }
+   - { length:1, points:[ { x:180, y:7 } ] }
+   - { length:1, points:[ { x:179, y:7 } ] }
+   - { length:1, points:[ { x:179, y:7 } ] }
+   - { length:1, points:[ { x:179, y:7 } ] }
+   - { length:1, points:[ { x:178, y:7 } ] }
+   - { length:1, points:[ { x:178, y:8 } ] }
+   - { length:1, points:[ { x:178, y:7 } ] }
+   - { length:1, points:[ { x:178, y:8 } ] }
+   - { length:1, points:[ { x:178, y:7 } ] }
+   - { length:1, points:[ { x:178, y:7 } ] }
+   - { length:1, points:[ { x:177, y:8 } ] }
+   - { length:1, points:[ { x:177, y:7 } ] }
+   - { length:1, points:[ { x:177, y:8 } ] }
+   - { length:1, points:[ { x:177, y:8 } ] }
+   - { length:1, points:[ { x:177, y:8 } ] }
+   - { length:1, points:[ { x:176, y:8 } ] }
+   - { length:1, points:[ { x:176, y:8 } ] }
+   - { length:1, points:[ { x:176, y:8 } ] }
+   - { length:1, points:[ { x:176, y:8 } ] }
+   - { length:1, points:[ { x:176, y:8 } ] }
+   - { length:1, points:[ { x:175, y:8 } ] }
+   - { length:1, points:[ { x:175, y:8 } ] }
+   - { length:1, points:[ { x:175, y:8 } ] }
+   - { length:1, points:[ { x:175, y:8 } ] }
+   - { length:1, points:[ { x:175, y:8 } ] }
+   - { length:1, points:[ { x:175, y:8 } ] }
+   - { length:1, points:[ { x:175, y:8 } ] }
+   - { length:1, points:[ { x:175, y:8 } ] }
+   - { length:1, points:[ { x:174, y:8 } ] }
+   - { length:1, points:[ { x:174, y:8 } ] }
+   - { length:1, points:[ { x:174, y:8 } ] }
+   - { length:1, points:[ { x:173, y:9 } ] }
+   - { length:1, points:[ { x:174, y:8 } ] }
+   - { length:1, points:[ { x:173, y:8 } ] }
+   - { length:1, points:[ { x:173, y:9 } ] }
+   - { length:1, points:[ { x:173, y:9 } ] }
+   - { length:1, points:[ { x:173, y:9 } ] }
+   - { length:1, points:[ { x:172, y:9 } ] }
+   - { length:1, points:[ { x:172, y:9 } ] }
+   - { length:1, points:[ { x:172, y:8 } ] }
+   - { length:1, points:[ { x:172, y:9 } ] }
+   - { length:1, points:[ { x:172, y:9 } ] }
+   - { length:1, points:[ { x:172, y:8 } ] }
+   - { length:1, points:[ { x:172, y:8 } ] }
+   - { length:1, points:[ { x:171, y:8 } ] }
+   - { length:1, points:[ { x:171, y:8 } ] }
+   - { length:1, points:[ { x:171, y:8 } ] }
+   - { length:1, points:[ { x:171, y:8 } ] }
+   - { length:1, points:[ { x:170, y:8 } ] }
+   - { length:1, points:[ { x:170, y:8 } ] }
+   - { length:1, points:[ { x:170, y:7 } ] }
+   - { length:1, points:[ { x:170, y:7 } ] }
+   - { length:1, points:[ { x:170, y:9 } ] }
+   - { length:1, points:[ { x:170, y:9 } ] }
+   - { length:1, points:[ { x:170, y:10 } ] }
+   - { length:1, points:[ { x:168, y:9 } ] }
+   - { length:1, points:[ { x:167, y:10 } ] }
+   - { length:1, points:[ { x:168, y:10 } ] }
+   - { length:1, points:[ { x:167, y:10 } ] }
+   - { length:1, points:[ { x:167, y:10 } ] }
+   - { length:1, points:[ { x:167, y:10 } ] }
+   - { length:1, points:[ { x:167, y:10 } ] }
+   - { length:1, points:[ { x:167, y:10 } ] }
+   - { length:1, points:[ { x:167, y:10 } ] }
+   - { length:1, points:[ { x:167, y:10 } ] }
+   - { length:1, points:[ { x:167, y:10 } ] }
+   - { length:1, points:[ { x:167, y:10 } ] }
+   - { length:1, points:[ { x:167, y:10 } ] }
+   - { length:1, points:[ { x:167, y:10 } ] }
+   - { length:1, points:[ { x:166, y:10 } ] }
+   - { length:1, points:[ { x:166, y:10 } ] }
+   - { length:1, points:[ { x:166, y:10 } ] }
+   - { length:1, points:[ { x:166, y:10 } ] }
+   - { length:1, points:[ { x:166, y:10 } ] }
+   - { length:1, points:[ { x:165, y:11 } ] }
+   - { length:1, points:[ { x:166, y:11 } ] }
+   - { length:1, points:[ { x:166, y:11 } ] }
+   - { length:1, points:[ { x:166, y:11 } ] }
+   - { length:1, points:[ { x:166, y:11 } ] }
+   - { length:1, points:[ { x:166, y:11 } ] }
+   - { length:1, points:[ { x:166, y:11 } ] }
+   - { length:1, points:[ { x:166, y:11 } ] }
+   - { length:1, points:[ { x:166, y:11 } ] }
+   - { length:1, points:[ { x:165, y:11 } ] }
+   - { length:1, points:[ { x:166, y:11 } ] }
+   - { length:1, points:[ { x:166, y:11 } ] }
+   - { length:1, points:[ { x:165, y:11 } ] }
+   - { length:1, points:[ { x:166, y:11 } ] }
+   - { length:1, points:[ { x:166, y:11 } ] }
+   - { length:1, points:[ { x:166, y:11 } ] }
+   - { length:1, points:[ { x:166, y:11 } ] }
+   - { length:1, points:[ { x:166, y:12 } ] }
+   - { length:1, points:[ { x:166, y:11 } ] }
+   - { length:1, points:[ { x:165, y:13 } ] }
+   - { length:1, points:[ { x:166, y:11 } ] }
+   - { length:1, points:[ { x:166, y:11 } ] }
+   - { length:1, points:[ { x:166, y:10 } ] }
+   - { length:1, points:[ { x:166, y:10 } ] }
+   - { length:1, points:[ { x:166, y:10 } ] }
+   - { length:1, points:[ { x:165, y:10 } ] }
+   - { length:1, points:[ { x:165, y:12 } ] }
+   - { length:1, points:[ { x:165, y:12 } ] }
+   - { length:1, points:[ { x:165, y:13 } ] }
+   - { length:1, points:[ { x:165, y:9 } ] }
+   - { length:1, points:[ { x:165, y:14 } ] }
+   - { length:1, points:[ { x:165, y:12 } ] }
+   - { length:1, points:[ { x:165, y:14 } ] }
+   - { length:1, points:[ { x:165, y:14 } ] }
+   - { length:1, points:[ { x:163, y:15 } ] }
+   - { length:1, points:[ { x:163, y:14 } ] }
+   - { length:1, points:[ { x:163, y:14 } ] }
+   - { length:1, points:[ { x:163, y:14 } ] }
+   - { length:1, points:[ { x:163, y:15 } ] }
+   - { length:1, points:[ { x:163, y:15 } ] }
+   - { length:1, points:[ { x:162, y:15 } ] }
+   - { length:1, points:[ { x:161, y:16 } ] }
+   - { length:1, points:[ { x:161, y:15 } ] }
+   - { length:1, points:[ { x:162, y:16 } ] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }
+   - { length:0, points:[] }

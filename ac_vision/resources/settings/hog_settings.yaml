@@ -1,0 +1,4 @@
+%YAML:1.0
+hit_threshold: 3.5
+final_threshold: 2.
+use_meanshift_grouping: 0

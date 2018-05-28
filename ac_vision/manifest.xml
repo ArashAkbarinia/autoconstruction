@@ -1,0 +1,20 @@
+<package>
+  <description brief="ac_vision">
+
+     ac_vision
+
+  </description>
+  <author>safir</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://code.google.com/p/autoconstruction/</url>
+  <depend package="std_msgs"/>
+  <depend package="roscpp"/>
+  <depend package="opencv2"/>
+  <depend package="std_srvs"/>
+  <depend package="cv_bridge"/>
+  <depend package="roslib"/>
+
+</package>
+
+

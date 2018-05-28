@@ -1,0 +1,18 @@
+%YAML:1.0
+torso_proportion: 3
+torso_scaling: 1.0
+safety_jacket_min_area: 64.
+safety_jacket_max_area: 400.
+safety_jacket_exception_area: 25000.
+safety_jacket_intersection_percent1: 0.33
+safety_jacket_intersection_percent2: 0.95
+filter_type: 2
+update_type: 0
+closeness_threshold: 90.
+closeness_area_threshold: 0.90
+tracking_histogram_confidence: 0.15
+tracking_safety_jacket_confidence: 0.75
+tracking_sift_confidence: 0.30
+num_particles: 100
+waiting_time: 3
+counter: 0
